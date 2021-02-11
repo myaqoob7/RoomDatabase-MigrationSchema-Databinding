@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoomDatabase MigrationSchema</string>
+
+    <string name="todo">TODO</string>
+    <string name="done">Done</string>
+    <string name="remove_all">Remove All</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="user">User</string>
+    <string name="user_report">User Report</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="subject_grade">Subject Grade</string>
+    <string name="subject_marks">Subject Marks</string>
+</resources>
